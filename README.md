@@ -1,4 +1,4 @@
-# Dw-PanelSSH
+# Panel-SSH
 Web Panel To Create SSH Account on Linux
 <br><br>
 <b>Fitur : </b><br>
