@@ -24,7 +24,7 @@ Web Panel To Create SSH Account on Linux
 6. Total Saldo / Deposit <br>
 7. Pengaturan <br>
 <br>
-<b><< TUTORIAL INSTALASI | DW-PanelSSH>></b> <br>
+<b><< TUTORIAL INSTALASI | Panel-SSH>></b> <br>
 1. Upload Database yang kami sertakan kedalam PHPMyAdmin <br>
 2. Masuk ke folder Application > config > config.php <br>
 3. Pada $config['base_url'] isi dengan URL tempat anda menyimpan file projectnya, kemudian save. <br>
